@@ -33,7 +33,7 @@ whatsapp.svg
 				headerTitle: 'Chatea por WhatsApp!…', //Popup Title
 				popupMessage: 'Hola, como podemos ayudarte?…', //Popup Message
 				showPopup: true, //Enables popup display
-				buttonImage: '<img src="https://cdn.shopify.com/s/files/1/0270/3533/6803/files/whatsapp.svg?v=1588027983" />', //Button Image
+				buttonImage: '<img src="https://cdn.shopify.com/s/files/XYZ-XYZ/whatsapp.svg?v=1588027983" />', //Button Image
 				//headerColor: 'crimson', //Custom header color
 				//backgroundColor: 'crimson', //Custom background button color
 				position: "right" //Position: left | right
