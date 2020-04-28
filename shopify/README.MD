@@ -1,4 +1,4 @@
-# Shopify
+# Shopify Integration
 
 1. Upload files to /Assets on Shopify theme
 
